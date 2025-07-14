@@ -173,3 +173,6 @@ Node Exporter: http://<EC2_PUBLIC_IP>:9100/metrics
 Grafana: http://<EC2_PUBLIC_IP>:3000
 
 <img width="1440" height="900" alt="Screenshot 2025-07-14 at 9 07 23 PM" src="https://github.com/user-attachments/assets/5f0f8a0c-2938-4290-acd9-0e9a84811a16" />
+
+
+This is the project link: https://roadmap.sh/projects/monitoring
