@@ -1,4 +1,4 @@
-🔍 DevOps Monitoring Project with Prometheus and Grafana
+Devops Monitoring project with prometheus and grafana
 
 📌 Project Overview
 
